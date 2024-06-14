@@ -1,11 +1,11 @@
 <h2 align="center">
-         ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗔𝗶 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧 」──
+         ──「 AMMI 𝗔𝗶 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧 」──
 
 
 
 <p align="center">
 
-<img src="https://te.legra.ph/file/2e2f78610814092d61103.jpg">
+<img src="https://graph.org/file/2642c1fe1cbbb7400415a.jpg">
 </p>
 
 # About
@@ -20,7 +20,7 @@
 
 ### Deploy To Heroku 🚀
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BRANDED-AI"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bugsirtg/ammichat"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 ## Reach Me
 
