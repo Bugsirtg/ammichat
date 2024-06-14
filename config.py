@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-OWNER_ID = int(getenv("OWNER_ID", "6752444356"))
+API_ID = int(getenv("API_ID", 23181468))
+API_HASH = getenv("API_HASH", "139146f6e5d20550ba60988a7e867235")
+OWNER_ID = int(getenv("OWNER_ID", "6571408029"))
 STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "BRANDED_WORLD")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "BRANDED_PAID_CC")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "BRANDEDKING82")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "ammichatt")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ammichatt")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "bugadam")
 
 # Random Start Images
 IMG = [
